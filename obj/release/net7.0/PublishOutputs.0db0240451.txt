@@ -1,0 +1,7 @@
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\publish\LHPets MVC SP5.exe
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\publish\appsettings.Development.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\publish\appsettings.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\publish\LHPets MVC SP5.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\publish\LHPets MVC SP5.deps.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\publish\LHPets MVC SP5.runtimeconfig.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\publish\LHPets MVC SP5.pdb

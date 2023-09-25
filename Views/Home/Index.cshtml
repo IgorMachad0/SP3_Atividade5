@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "LH Pets";
+}
+
+<div class="container">
+
+    <h1 class="text-center"> >>> Internal System - LH Pets <<< </h1>
+
+            <table class="table table-hover table-sm table-bordered table-sm caption-top">
+                <caption>Customers list</caption>
+                <thead class="table-dark">
+                    <tr>
+                        <th scope=" col">Id</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">ITIN</th>
+                        <th scope="col">E-mail</th>
+                        <th scope="col">Patient (pet)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                        @foreach(var item in @ViewBag.customerList){
+                            <tr>
+                                <th scope="row">@item.Id</th>
+                                <td>@item.Name</td>
+                                <td>@item.ITIN</td>
+                                <td>@item.Email</td>
+                                <td>@item.Patient</td>
+                            </tr>
+                        }
+                    </tr>
+                </tbody>
+            </table>
+
+
+            <table class="table table-hover table-sm table-bordered table-sm caption-top">
+                <caption>Suppliers list</caption>
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">EN</th>
+                        <th scope="col">E-mail</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var item in @ViewBag.supplierList){
+                        <tr>
+                            <th scope="row">@item.Id</th>
+                            <td>@item.Name</td>
+                            <td>@item.EN</td>
+                            <td>@item.Email</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+</div>

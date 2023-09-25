@@ -1,0 +1,30 @@
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\appsettings.Development.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\appsettings.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\LHPets MVC SP5.staticwebassets.runtime.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\LHPets MVC SP5.exe
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\LHPets MVC SP5.deps.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\LHPets MVC SP5.runtimeconfig.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\LHPets MVC SP5.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\bin\release\net7.0\LHPets MVC SP5.pdb
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.AssemblyInfoInputs.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.AssemblyInfo.cs
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.csproj.CoreCompileInputs.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.RazorAssemblyInfo.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.RazorAssemblyInfo.cs
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\staticwebassets\msbuild.LHPets MVC SP5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\staticwebassets\msbuild.build.LHPets MVC SP5.props
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\staticwebassets\msbuild.buildMultiTargeting.LHPets MVC SP5.props
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\staticwebassets\msbuild.buildTransitive.LHPets MVC SP5.props
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\staticwebassets.pack.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\staticwebassets.build.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\staticwebassets.development.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\scopedcss\bundle\LHPets MVC SP5.styles.css
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\scopedcss\projectbundle\LHPets MVC SP5.bundle.scp.css
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\refint\LHPets MVC SP5.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.pdb
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\LHPets MVC SP5.genruntimeconfig.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\Codificação Back End\LHPets MVC SP5\obj\release\net7.0\ref\LHPets MVC SP5.dll
